@@ -1,0 +1,89 @@
+html body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(257, 40%, 49%) ;
+    background-image: url(images/bg-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 85%;
+    overflow: hidden;
+
+}
+
+.logo{
+    margin-top: 70px;
+    margin-left: 75px;
+}
+
+.carre{
+    padding: 75px;
+    margin-top: 10px;
+    height: 650px;
+    width: 950px;
+}
+
+.texte1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 40px;
+    right: 400px;
+    position: absolute;
+    top: 300px;
+    font-weight: 600;
+}
+
+.texte2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    right: 270px;
+    position: absolute;
+    top: 450px;
+    color: white;
+    font-weight: 400;
+}
+.bouton{
+    color: white;
+    background-color: hsl(300, 69%, 71%);
+    height: 50px;
+    width: 200px;
+    border-radius : 50px;
+    top: 560px;
+    left: 1100px;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 25px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.bouton:hover{
+    background-color: white;
+    color: hsl(300, 69%, 71%);
+
+}
+
+.facebook{
+    width: 70px;
+    bottom: 35px;
+    right: 180px;
+    position: absolute;
+}
+
+.twitter{
+    width: 70px;
+    bottom: 35px;
+    right: 265px;
+    position: absolute;
+}
+
+.instagram{
+    width: 60px;
+    right: 100px;
+    bottom: 35px;
+    position: absolute;
+    margin-bottom: 6px;
+}
+
+
+
+/*You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.*/
